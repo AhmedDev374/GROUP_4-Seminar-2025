@@ -1,8 +1,3 @@
-
-### Main GUI
-![Main GUI](Images/Program.jfif)
-
-
 # 🦾 Deep Learning–Enhanced EMG Prosthetic Control Simulator
 
 This project is a **clinical-style simulation system** for EMG-based prosthetic hand control.
@@ -15,6 +10,9 @@ The system includes:
 * Performance metrics (accuracy, latency, confidence)
 * Interactive graphical user interface (GUI)
 * Multiple clinical scenarios (noise, fatigue, electrode shift)
+
+### Main GUI
+![Main GUI](Images/Program.jfif)
 
 ---
 
