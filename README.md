@@ -12,7 +12,7 @@ The system includes:
 * Multiple clinical scenarios (noise, fatigue, electrode shift)
 
 ### Main GUI
-![Main GUI](Images/Program.jfif)
+![Main GUI](Images/Program.PNG)
 
 ---
 
