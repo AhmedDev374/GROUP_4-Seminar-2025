@@ -132,5 +132,3 @@ The system uses a **hybrid deep learning architecture**:
 This project is for **educational and academic use**.
 * Add screenshots section
 * Add **installation errors FAQ**
-
-Just tell me 👍
