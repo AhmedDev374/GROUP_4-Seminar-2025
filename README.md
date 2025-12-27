@@ -132,6 +132,5 @@ The system uses a **hybrid deep learning architecture**:
 
 ## 📜 License
 
-This project is for **educational and academic use**.
-* Add screenshots section
-* Add **installation errors FAQ**
+This project is licensed under the **GNU General Public License v3.0**.  
+See the full license text here: [LICENSE](LICENSE).
