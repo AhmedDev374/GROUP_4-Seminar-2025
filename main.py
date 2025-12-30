@@ -1968,7 +1968,6 @@ class EMGProstheticSimulator:
 def main():
     simulator = EMGProstheticSimulator()
     simulator.run()
->>>>>>> 7fd6029c1a3a2cea463430bfd1eb6172e68d249e
 
 
 if __name__ == "__main__":
