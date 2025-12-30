@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """
 ================================================================================
 PROFESSIONAL ECG SIGNAL CONDITIONING SYSTEM - ADVANCED ANALYTICS DASHBOARD
@@ -21,7 +20,6 @@ import warnings
 import json
 import os
 from threading import Thread
-=======
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
@@ -39,12 +37,10 @@ import tensorflow as tf
 from tensorflow import keras
 from tensorflow.keras import layers
 import warnings
->>>>>>> 7fd6029c1a3a2cea463430bfd1eb6172e68d249e
 
 warnings.filterwarnings('ignore')
 
 
-<<<<<<< HEAD
 # ============================================================================
 # CONFIGURATION AND CONSTANTS
 # ============================================================================
@@ -1450,7 +1446,6 @@ def main():
 
     # Start main loop
     root.mainloop()
-=======
 class EMGProstheticSimulator:
     def __init__(self):
         # ------------------------
@@ -1464,8 +1459,7 @@ class EMGProstheticSimulator:
         # Simulation parameters
         self.sampling_rate = 1000
         self.window_size = 200
-        self.overlap = 2
-        00
+        self.overlap = 200
         self.num_channels = 8
         self.is_running = False
         self.current_gesture = "Rest"
